@@ -11,7 +11,7 @@ Projeto de estudo. Foi feito algumas melhorias.
 </div>
 
 <div align ="center">
-  <h2>Mibile</h2>
+  <h2>Mobile</h2>
     <div display = "flex">
     <img = src= "https://user-images.githubusercontent.com/49048624/153762487-291ef8f7-735b-430f-83af-0f93b88bc07a.png">
   
